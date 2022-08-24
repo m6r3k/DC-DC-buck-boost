@@ -66,6 +66,23 @@ GenerateClassCluster=0
 DocumentUniqueId=UVRXUQER
 
 [Document2]
+DocumentPath=aisler.Outjob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document3]
 DocumentPath=DC_DC.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -81,6 +98,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNSXQFVP
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Solar_charger\Design Rule Check - DC_DC.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
