@@ -2,5 +2,5 @@
 Design is based on LTC3780 IC from Analog Device, the output voltage can be changed for any value between 0,8-25V
 
 
-https://aisler.net/p/VVNJOQKS
+
 
