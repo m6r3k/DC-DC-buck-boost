@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : C:\Altium\Projects\DC-DC-buck-boost\DC_DC.PcbDoc
+Date     : 28.06.2025
+Time     : 11:17:48
+
+Processing Rule : Clearance Constraint (Gap=4.921mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Via (1700mil,1270mil) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=70mil) (Preferred=12mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R6" (2847.494mil,1345.843mil) on Top Overlay And Track (2825mil,1310mil)(2825mil,1430mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+PCB Health Issue Category : Self-Intersecting Regions
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (1485mil,2005mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (1495mil,2005mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (1495mil,2005mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (1495mil,2005mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (1495mil,2005mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (1495mil,2005mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (1495mil,2005mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2757.205mil,1895mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2747.205mil,1895mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2747.205mil,1895mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2747.205mil,1895mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2747.205mil,1895mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2747.205mil,1895mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2747.205mil,1895mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2760mil,2220mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2750mil,2220mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2750mil,2220mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2750mil,2220mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2750mil,2220mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2750mil,2220mil)
+   Self-intersection: Region (0 hole(s)) Bottom Overlay (2750mil,2220mil)
+Issues :21
+
+
+Violations Detected : 2
+Waived Violations : 0
+PCB Health Issues : 21
+Time Elapsed        : 00:00:01

@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=NetC17_2 Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=NetC17_2 Pin=C19-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=NetC20_1 Pin=C21-2
+Change Component DesignItemId : Designator=C18 Old DesignItemId=CC_1206_NP0_104 New DesignItemId=CC_0603_X7R_104
+Change Component DesignItemId : Designator=C20 Old DesignItemId=CC_1206_NP0_104 New DesignItemId=CC_0603_X7R_104
+Change Component DesignItemId : Designator=C19 Old DesignItemId=CC_1206_X7R_105 New DesignItemId=CC_0603_X7R_475
+Change Component DesignItemId : Designator=C21 Old DesignItemId=CC_1206_X7R_105 New DesignItemId=CC_0603_X7R_475
+Change Component Footprint: Designator=C19 Old Footprint=C1206_medium New Footprint=C0603
+Change Component Footprint: Designator=C21 Old Footprint=C1206_medium New Footprint=C0603
+Change Component Footprint: Designator=C18 Old Footprint=C1206_thin New Footprint=C0603
+Change Component Footprint: Designator=C20 Old Footprint=C1206_thin New Footprint=C0603
+Change Component Comment : Designator=C19 Old Comment=C1206C105K5RACTU New Comment=CL10B475KQ8NQNC
+Change Component Comment : Designator=C21 Old Comment=C1206C105K5RACTU New Comment=CL10B475KQ8NQNC
+Change Component Comment : Designator=C18 Old Comment=GRT31C5C2A104JA12L New Comment=06035C104K4Z2A
+Change Component Comment : Designator=C20 Old Comment=GRT31C5C2A104JA12L New Comment=06035C104K4Z2A
+Change Component Description : Designator=C18 Old Description=Ceramic Capacitor NP0 100V New Description=Ceramic Capacitor X7R 50V
+Change Component Description : Designator=C20 Old Description=Ceramic Capacitor NP0 100V New Description=Ceramic Capacitor X7R 50V
+Change Component Description : Designator=C19 Old Description=Ceramic Capacitor X7R 50V New Description=Ceramic Capacitor X7R 6.3V
+Change Component Description : Designator=C21 Old Description=Ceramic Capacitor X7R 50V New Description=Ceramic Capacitor X7R 6.3V
+Change component parameters: Designator = "C18" ("C18"); Footprint = "C1206_thin"; UniqueID = "\ZFSMOEPF" ("\ZFSMOEPF")
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors CERA SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Main"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "100n/50V X7R C0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "100n/50V X7R C0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD/THD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-06035C104K4Z2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "1833843"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "C1206_medium"; UniqueID = "\HGTRBHZO" ("\HGTRBHZO")
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors CERA SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Main"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD/THD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "187-CL10B475KQ8NQNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "C1206_thin"; UniqueID = "\PFMNBLDM" ("\PFMNBLDM")
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors CERA SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Main"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "100n/50V X7R C0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "100n/50V X7R C0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD/THD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-06035C104K4Z2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "1833843"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "C1206_medium"; UniqueID = "\ANBDTDUH" ("\ANBDTDUH")
+Change component parameters (AddParameter): Name = "Category"; Value = "Capacitors CERA SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Main"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD/THD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "187-CL10B475KQ8NQNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=NetC17_2 Pin=C18-2
+Added Pin To Net: NetName=NetC17_2 Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=C20-2
+Added Pin To Net: NetName=NetC20_1 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Change Net Name : Old Net Name=NetC20_1 New Net Name=NetC20_2
+Added Member To Class: ClassName=DC_DC Member=Component C4 25PZF220M8X9
+Added Member To Class: ClassName=DC_DC Member=Component C6 C1206C105K5RACTU
+Added Member To Class: ClassName=DC_DC Member=Component C7 C1206C105K5RACTU
+Added Member To Class: ClassName=DC_DC Member=Component C8 C1206C105K5RACTU
+Added Member To Class: ClassName=DC_DC Member=Component C13 AC0603KRX7R9BB223
+Added Member To Class: ClassName=DC_DC Member=Component C14 GCM1885C2A470JA16J
+Added Member To Class: ClassName=DC_DC Member=Component C15 C0603X103K1RAC3316
+Added Member To Class: ClassName=DC_DC Member=Component C18 06035C104K4Z2A
+Added Member To Class: ClassName=DC_DC Member=Component C19 CL10B475KQ8NQNC
+Added Member To Class: ClassName=DC_DC Member=Component D1 PMEG6030EXE-QX
+Added Member To Class: ClassName=DC_DC Member=Component D2 PMEG6030EXE-QX
+Added Member To Class: ClassName=DC_DC Member=Component D5 PDZ3.6B,115
+Added Member To Class: ClassName=DC_DC Member=Component D6 NRVB0540T1G
+Added Member To Class: ClassName=DC_DC Member=Component R7 CRGP0603F10K
+Added Room: Name=DC_DC

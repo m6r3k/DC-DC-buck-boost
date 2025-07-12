@@ -1,0 +1,20 @@
+Change Component DesignItemId : Designator=C2 Old DesignItemId=EC_THT_157_polarised New DesignItemId=35PZE150M8X9
+Change Component DesignItemId : Designator=C7 Old DesignItemId=EC_THT_227_polarised New DesignItemId=25PZF220M8X9
+Change Component Description : Designator=C2 Old Description=High temp hybrid capacitor -55/125C New Description=High temp hybrid capacitor -55/125C
+150uF/35V
+Change Component Description : Designator=C7 Old Description=High temp hybrid capacitor -55/125C New Description=High temp hybrid capacitor -55/125C
+220uF/25V
+Added Component: Designator=C1(PZF8x9)
+Add component (AddParameter): Name = "Category"; Value = "Capacitors THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Main"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD/THD"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "232-35PZE150M8X9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "35PZE150M8X9-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150uF/35V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Member To Class: ClassName=DC_DC Member=Component C1 35PZE150M8X9

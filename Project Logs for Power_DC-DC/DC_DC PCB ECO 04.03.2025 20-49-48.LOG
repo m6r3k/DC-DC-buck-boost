@@ -1,0 +1,29 @@
+Added Component: Designator=D5(SOD123HP)
+Add component (AddParameter): Name = "Category"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Main"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD/THD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-PMEG6030EXE-QXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "771-PMEG6030EXE-Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PMEG6030EXE"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SOD123HP)
+Add component (AddParameter): Name = "Category"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Main"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD/THD"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-PMEG6030EXE-QXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "771-PMEG6030EXE-Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PMEG6030EXE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ2_1, 2, 3 Pin=D5-1
+Added Pin To Net: NetName=NetC18_2 Pin=D5-2
+Added Pin To Net: NetName=NetC18_2 Pin=D5-2
+Added Pin To Net: NetName=NetC11_2 Pin=D6-1
+Added Pin To Net: NetName=NetC5_2 Pin=D6-2
+Added Pin To Net: NetName=NetC5_2 Pin=D6-2
+Change Net Name : Old Net Name=NetQ2_1, 2, 3 New Net Name=NetD5_1
+Added Member To Class: ClassName=DC_DC Member=Component D5 PMEG6030EXE-QX
+Added Member To Class: ClassName=DC_DC Member=Component D6 PMEG6030EXE-QX

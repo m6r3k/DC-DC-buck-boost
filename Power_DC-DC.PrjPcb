@@ -185,7 +185,159 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=BOM.pdf
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\AISLER\ODB\DC_DC.zip
+DItemRevisionGUID=
+
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Power_DC-DC\Design Rule Check - DC_DC.html
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\dielectric_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\dielectric_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\dielectric_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\dielectric_7\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=.\AISLER\ODB\odb\symbols\uds_rect1143x419.1xr52.3875_90_offset-127x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\AISLER\ODB\odb\symbols\uds_rect1143x419.1xr52.3875_180_offset-127x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=.\AISLER\ODB\odb\symbols\uds_rect1143x419.1xr52.3875_offset-127x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\AISLER\ODB\odb\symbols\uds_rect1244.6x520.7xr103.1875_90_offset-127x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=.\AISLER\ODB\odb\symbols\uds_rect1244.6x520.7xr103.1875_180_offset-127x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\AISLER\ODB\odb\symbols\uds_rect1244.6x520.7xr103.1875_offset-127x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\AISLER\ODB\odb\symbols\uds_rect1524x711.2xr88.9_180_offset-127x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=.\AISLER\ODB\odb\symbols\uds_rect1625.6x812.8xr139.7_180_offset-127x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=.\AISLER\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=.\AISLER\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -215,8 +367,8 @@ ExportBOM=0
 TemplateFilename=
 TemplateStoreRelative=-1
 PCB_PrintColor=1
-SCH_PrintColor=0
-PrintQuality=-3
+SCH_PrintColor=2
+PrintQuality=-4
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
@@ -552,6 +704,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=6|FormWidth=2560|FormHeight=1401|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=VisibleOrder
+Configuration1_Item5=Designator=115|Quantity=78|Value=100|Comment=120|Description=416|Supplier 1=100|Supplier 2=100|Footprint=120
+Configuration1_Name6=VisibleOrder_Flat
+Configuration1_Item6=Designator=115|Quantity=78|Value=100|Comment=120|Description=416|Supplier 1=100|Supplier 2=100|Footprint=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -813,6 +977,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

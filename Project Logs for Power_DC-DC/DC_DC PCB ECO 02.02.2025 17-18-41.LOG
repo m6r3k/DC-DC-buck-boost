@@ -1,0 +1,16 @@
+Add Component: Footprint Not Found PZF8x9
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Class Member: Failed to add class member : Component C1 35PZE150M8X9
+Added Member To Class: ClassName=DC_DC Member=Component C2 35PZE150M8X9
+Added Member To Class: ClassName=DC_DC Member=Component C4 C1206C105K5RACTU
+Added Member To Class: ClassName=DC_DC Member=Component C5 C1206C105K5RACTU
+Added Member To Class: ClassName=DC_DC Member=Component C8 C1206C105K5RACTU
+Added Member To Class: ClassName=DC_DC Member=Component C10 GCM1885C2A470JA16J
+Added Member To Class: ClassName=DC_DC Member=Component C11 C1206C224J1RACAUTO
+Added Member To Class: ClassName=DC_DC Member=Component C14 GRM31CC72A475ME11L
+Added Member To Class: ClassName=DC_DC Member=Component C15 C0603X103K1RAC3316
+Added Member To Class: ClassName=DC_DC Member=Component C18 C1206C224J1RACAUTO
+Added Member To Class: ClassName=DC_DC Member=Component D4 NRVB0540T1G
+Added Member To Class: ClassName=DC_DC Member=Component R7 RC0603FR-07100KL
+Added Room: Name=DC_DC
